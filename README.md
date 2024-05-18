@@ -19,10 +19,10 @@ Before running the app, make sure you have the following installed:
 
 ## Installation
 ### Clone the Repository:
-  git clone https://github.com/your-username/quiz-app.git
+  git clone https://github.com/Grashijain/QuizApp.git
 ### Navigate to the Project Directory:
   cd quiz-app
 ### Build and Run the Application:
   ./mvnw spring-boot:run
 ### Access the App: 
-  Open your web browser and go to http://localhost:8080
+  Open your web browser and go to https://localhost:8080
